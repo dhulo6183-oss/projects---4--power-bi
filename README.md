@@ -414,15 +414,6 @@ HR_Workforce_Analytics_Dashboard_Power_BI/
 
 > 🤝 *Feel free to fork this repository, raise issues, or connect on LinkedIn for collaboration on analytics and Power BI projects.*
 
----
-
-<p align="center">
-  <img src="https://img.shields.io/github/stars/HarshalVora86/HR_Workforce_Analytics_Dashboard_Power_BI?style=social"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/forks/HarshalVora86/HR_Workforce_Analytics_Dashboard_Power_BI?style=social"/>
-  &nbsp;
-  <img src="https://img.shields.io/github/watchers/HarshalVora86/HR_Workforce_Analytics_Dashboard_Power_BI?style=social"/>
-</p>
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19,24,30&height=120&section=footer&fontColor=white"/>
