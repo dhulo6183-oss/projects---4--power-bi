@@ -408,7 +408,6 @@ HR_Workforce_Analytics_Dashboard_Power_BI/
     <img src="https://img.shields.io/badge/GitHub-HarshalVora86-181717?style=for-the-badge&logo=github&logoColor=white"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://www.linkedin.com/in/harshal-vora-344601251">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </p>
