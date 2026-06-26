@@ -32,28 +32,23 @@ This project delivers a **3-page Power BI people-analytics dashboard** built to 
 ### 🧭 Page 1 — Workforce Overview
 > *Snapshot of total/active headcount, tenure, training investment, gender mix, and career-level distribution*
 
-![Workforce Overview Dashboard](Screenshots/Page1.png)
 
 ---
 
 ### 📉 Page 2 — Attrition Analysis
 > *YTD and rolling attrition rate, hiring trends vs. prior year, monthly new-hire pattern, and attrition hot-spots by department*
 
-![Attrition Analysis Dashboard](Screenshots/Page2.png)
 
 ---
 
 ### 💰 Page 3 — Compensation & Training
 > *Salary bands, performance distribution, department-wise pay ranking, and training cost allocation*
 
-![Compensation & Training Dashboard](Screenshots/Page3.png)
-
 ---
 
 ### 🔗 Data Model
 > *Star-schema-style model connecting EmployeeMaster to Training, EngagementSurvey, Recruitment, Performance, and Dimdate*
 
-![Data Model](Screenshots/ModelView.png)
 
 ---
 
@@ -246,8 +241,8 @@ All KPIs in this report are powered by a dedicated **`_Measures`** table contain
 
 ## 👨‍💻 About the Author
 
-**Harshal Vora**
-*Data Analytics Enthusiast | Power BI | MySQL | Excel | Python*
+**dhruv prajapati**
+
 
 <p>
   <a href="https://github.com/HarshalVora86">
