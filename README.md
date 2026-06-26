@@ -403,18 +403,3 @@ HR_Workforce_Analytics_Dashboard_Power_BI/
   <strong>dhruv prajapati</strong><br/>
 </p>
 
-<p align="center">
-  <a href="https://github.com/HarshalVora86">
-    <img src="https://img.shields.io/badge/GitHub-HarshalVora86-181717?style=for-the-badge&logo=github&logoColor=white"/>
-  </a>
-  &nbsp;&nbsp;
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-</p>
-
-> 🤝 *Feel free to fork this repository, raise issues, or connect on LinkedIn for collaboration on analytics and Power BI projects.*
-
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=2,12,19,24,30&height=120&section=footer&fontColor=white"/>
-</p>
